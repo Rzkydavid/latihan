@@ -11,7 +11,7 @@ class Hello extends StatelessWidget {
         title: const Text("Belajar Flutter"),
       ),
       body: const Center(
-        child: Text('Pengen Pake text ajah'),
+        child: Kolombaris(),
       ),
     );
   }
